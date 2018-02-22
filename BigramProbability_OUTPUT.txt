@@ -1,0 +1,12 @@
+Bigram				Count				Probability
+
+('The', 'president')			0			0
+('president', 'wants')			0			0
+('wants', 'to')		2		0.5
+('to', 'control')		1		0.0015408320493066256
+('control', 'the')			0			0
+('the', 'board')		144		0.1006993006993007
+('board', "'s")		17		0.04644808743169399
+("'s", 'control')			0			0
+
+Probablility = 0.0
